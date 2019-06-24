@@ -1,0 +1,10 @@
+MASM main.asm,,,;
+MASM menu.asm,,,;
+MASM input.asm,,,;
+MASM signed2.asm,,,;
+MASM unsign2.asm,,,;
+MASM signed10.asm,,,;
+MASM unsign10.asm,,,;
+MASM signed16.asm,,,;
+MASM unsign16.asm,,,;
+LINK main.obj menu.obj input.obj signed2.obj signed10.obj signed16.obj unsign2.obj unsign10.obj unsign16.obj;

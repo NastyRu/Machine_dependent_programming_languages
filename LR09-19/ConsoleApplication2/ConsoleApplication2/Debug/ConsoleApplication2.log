@@ -1,0 +1,8 @@
+﻿  Assembling PP.asm...
+  stdafx.cpp
+  ConsoleApplication2.cpp
+  Microsoft (R) Macro Assembler Version 14.20.27508.1
+  Copyright (C) Microsoft Corporation.  All rights reserved.
+  
+   Assembling: PP.asm
+  ConsoleApplication2.vcxproj -> Z:\dos\LR09-19\ConsoleApplication2\Debug\ConsoleApplication2.exe

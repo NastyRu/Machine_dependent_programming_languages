@@ -1,0 +1,12 @@
+.386
+.model FLAT,C
+
+;public 
+;extrn
+
+.DATA
+
+
+.CODE
+	RET
+END
